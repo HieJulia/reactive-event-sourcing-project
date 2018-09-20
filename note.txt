@@ -1,5 +1,4 @@
 GITHUB PROJECT 
-+ twitter- service : https://github.com/aboullaite/reactive-stream-java9
 https://github.com/softwaremill/reactive-streams-for-java-developers
 https://github.com/AntoineCheron/reactivewebserver
 https://github.com/aboullaite/spring-boot-reactive
