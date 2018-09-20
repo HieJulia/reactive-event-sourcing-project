@@ -3,9 +3,24 @@ GITHUB PROJECT
 https://github.com/softwaremill/reactive-streams-for-java-developers
 https://github.com/AntoineCheron/reactivewebserver
 https://github.com/aboullaite/spring-boot-reactive
-https://github.com/Tradeshift/ts-reaktive
+https://github.com/hafidsousa/webcrawler
+https://github.com/typesafehub/ReactiveMapsJava
 
 
 
 BOOK (chua check)
-+ Reactive programming with Java 9 (dang check)
++ Reactive microsystem 
++ Hands on spring security 5 for reactive applications
++ developing reactive microservices
++ reactive microservice architecture 
++ functional reactive programming
++ reactive design pattern 
++ reactive web applications: with play, akka , and reactive streams
++ reactive programming in kotlin 
++ functional and reactive domain modeling 
++ java : high performance apps with Java 9 
++ reactive android programming
++ mastering java 9 
++ java 9 : building robust modular applications
++ design patterns and best practices in Java 
++ 
