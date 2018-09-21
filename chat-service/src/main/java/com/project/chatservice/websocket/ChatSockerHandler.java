@@ -56,7 +56,7 @@ public class ChatSocketHandler implements WebSocketHandler {
 
     private static class WebSocketMessageSubscriber {
         private UnicastProcessor<Event> eventPublisher;
-        private Optional<Event> lastReceivedEvent = Optional.empty();
+        privat e Optional<Event> lastReceivedEvent = Optional.empty();
 
         public WebSocketMessageSubscriber(UnicastProcessor<Event> eventPublisher) {
             this.eventPublisher = eventPublisher;
