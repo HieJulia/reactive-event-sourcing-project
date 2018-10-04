@@ -19,9 +19,11 @@ Streams, Ratpack ,Vert.x
     + Database : MongoDB 
 + Chat service : chat service is used for enabling followers to chat 
 
-+ Real time online tracking service 
++ Real time online tracking service : used to track users who is using the service online  
     + Database : MongoDb
     + Spring reactive mongo  
+
++ Back up service : used to backup database in schedule 
 
 
 
