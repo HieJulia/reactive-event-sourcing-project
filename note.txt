@@ -1,36 +1,7 @@
-GITHUB PROJECT 
 https://github.com/softwaremill/reactive-streams-for-java-developers
-https://github.com/AntoineCheron/reactivewebserver
 backup service : https://github.com/learntocode2013/reactiveJava8
-
-https://github.com/lagom/activator-lagom-cargotracker
-https://github.com/mulderbaba/javamag-reactive-article
-https://github.com/GroupLeasePCL/poc-service
-https://github.com/cybora/Reactive_Stream_Java
-https://github.com/HennerM/reactive-programming-java
-https://github.com/cwijayasundara/java-9-reactive-streams
-https://github.com/Wrent/CN-java-meetup-reactive-spring
-https://github.com/dipengfei/reactive-stock
-https://github.com/vlachenal/webservices-reactive-bench
-https://github.com/jedrzejserwa/reactive-salary-parser
-https://github.com/edgareler/reactive-currency-exchange
-https://github.com/nirmalks/Spring-Boot-Reactive-CRUD-API-Example
 https://github.com/renatoaguimaraes/spring-reactive-kafka-sse
-https://github.com/wingsofovnia/superhero
-https://github.com/emersonjcarvalho/reactive-java-stack-labs
-https://github.com/TheReactiveJukebox/Backend
-https://github.com/kantega/kembe
-https://github.com/cyclic-reference/vertx-wiki
 https://github.com/stavalfi/TorrentX
-https://github.com/gmicsa/scores-microservice
-https://github.com/daggerok/spring-integration-5-examples
-https://github.com/RockeyHoo/relax
-https://github.com/bulletproof-ninja/delta
-https://github.com/jvz/jvz.github.io/tree/master/_posts
-https://github.com/epalumbo/feature-valves
-
-
-
 
 
 Akka stream : 
@@ -55,3 +26,25 @@ BOOK (Da check het)
 + mastering java 9 (dang check )
 + java 9 : building robust modular applications 
 + design patterns and best practices in Java (dang check)
+
+
+
+
+
+
+AP DUGN CHO BIG PROJECT 
+https://github.com/cybora/Reactive_Stream_Java
+https://github.com/dipengfei/reactive-stock
+https://github.com/vlachenal/webservices-reactive-bench
+https://github.com/epalumbo/feature-valves
+https://github.com/edgareler/reactive-currency-exchange
+
+
+
+
+
+Base project 
+https://github.com/HennerM/reactive-programming-java
+https://github.com/hpgrahsl/wearedevs-2018  ( big base project )
+https://github.com/jeag2002/JavaCradle (big base project )
+
