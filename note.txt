@@ -38,6 +38,8 @@ https://github.com/dipengfei/reactive-stock
 https://github.com/vlachenal/webservices-reactive-bench
 https://github.com/epalumbo/feature-valves
 https://github.com/edgareler/reactive-currency-exchange
+https://github.com/jedrzejserwa/reactive-salary-parser
+https://github.com/emersonjcarvalho/reactive-java-stack-labs
 
 
 
@@ -47,4 +49,6 @@ Base project
 https://github.com/HennerM/reactive-programming-java
 https://github.com/hpgrahsl/wearedevs-2018  ( big base project )
 https://github.com/jeag2002/JavaCradle (big base project )
-
+https://github.com/TheReactiveJukebox/Backend (co the add vao them voi project kia)
+https://github.com/daggerok/reactive-data-flow-with-kafla-and-tailable-mongodb - kafka - mongo - reactive 
+https://github.com/daggerok/reactive-data-flow-systems - kafka - mongo - reactive 
